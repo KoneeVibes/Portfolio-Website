@@ -94,7 +94,7 @@ const Home = () => {
       <ButtonBoxStyle>
         <div className='button-box'>
           <Button text={'Send a Mail'}/>
-          <Button text={'Leave a comment'}/>
+          <Button text={'Leave a Comment'}/>
         </div>
       </ButtonBoxStyle>
     </div>
